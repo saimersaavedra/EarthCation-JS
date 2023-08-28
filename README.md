@@ -1,6 +1,6 @@
 # Bienvenido al Repositorio EarthCation ⛏️
 
-¡Saludos! Te damos la bienvenida al repositorio oficial de EarthCation. Aquí encontrarás los recursos esenciales para mantenerte actualizado con las versiones más recientes del juego y acceder a una edición específica.
+¡Saludos! Te damos la bienvenida al repositorio oficial de EarthCation.
 
 ## Contenido del Repositorio
 
@@ -19,9 +19,5 @@
 Valoramos tus contribuciones y comentarios.
 No te olvides de realizar formulario de calificación y sugerencia: https://forms.gle/TtpHsbi4ff1np4p16 .
 
-Tu participación en este formulario es importante.⛏️🚀
 
-¡Muchas gracias! 🌟
-
-Saludos,
-El Equipo de Desarrollo de EarthCation
+Saludos.
