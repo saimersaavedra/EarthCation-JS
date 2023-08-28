@@ -17,7 +17,7 @@
 ## Contribuciones y Retroalimentación
 
 Valoramos tus contribuciones y comentarios.
-Por favor completa nuestro [Formulario de calificación y sugerencia] https://forms.gle/TtpHsbi4ff1np4p16 .
+No te olvides de realizar formulario de calificación y sugerencia: https://forms.gle/TtpHsbi4ff1np4p16 .
 
 Tu participación en este formulario es importante.⛏️🚀
 
