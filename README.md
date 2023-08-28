@@ -6,7 +6,7 @@
 
 - **Carpeta EarthCation_GameFiles:** Esta carpeta contiene los archivos cruciales del juego EarthCation ⚙️. Puedes clonar este repositorio para obtener acceso a las versiones actuales.
 
-- **Archivo EarthCation_v2.9.rar:** Hemos incluido un archivo comprimido "EarthCation_v2.9.rar" que contiene una edición específica del juego. Esta versión te brinda la oportunidad de experimentar características y ajustes únicos.
+- **Archivo EarthCation_v##.rar:** Hemos incluido un archivo comprimido "EarthCation_v##.rar" que contiene una edición específica del juego. Esta versión te brinda la oportunidad de experimentar características y ajustes únicos.
 
 ## Cómo Empezar
 
