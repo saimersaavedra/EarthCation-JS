@@ -4,8 +4,7 @@
 
 ## Contribuciones y Retroalimentación
 
-Valoramos tus contribuciones y comentarios.
-No te olvides de realizar formulario de calificación y sugerencia: https://forms.gle/TtpHsbi4ff1np4p16 .
+Valoramos tus contribuciones y comentarios. No te olvides de realizar el formulario de calificación y sugerencia: https://forms.gle/TtpHsbi4ff1np4p16 .
 
 
 Saludos.
