@@ -2,7 +2,6 @@
 
 ¡Saludos! Te damos la bienvenida al repositorio oficial de EarthCation.
 
-![Banner]([url completa de la imagen](https://github.com/saimersaavedra/EarthCation-JS/blob/main/Banner_Lobby.jpeg))
 ## Contribuciones y Retroalimentación
 
 Valoramos tus contribuciones y comentarios.
